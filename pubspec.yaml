@@ -1,0 +1,20 @@
+name: flutter_views
+description: Collection of widget with advanced style and controlling system.
+version: 0.0.1
+repository: https://github.com/mdmohiuddin655/flutter_views.git
+#homepage: https://github.com/mdmohiuddin655/flutter_ex_widgets.git
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
