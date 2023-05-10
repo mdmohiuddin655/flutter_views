@@ -2,7 +2,7 @@ name: flutter_views
 description: Collection of widget with advanced style and controlling system.
 version: 0.0.1
 repository: https://github.com/mdmohiuddin655/flutter_views.git
-#homepage: https://github.com/mdmohiuddin655/flutter_ex_widgets.git
+#homepage: https://github.com/mdmohiuddin655/flutter_views.git
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
